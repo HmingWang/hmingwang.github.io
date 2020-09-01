@@ -3,10 +3,17 @@ title: 永烁星光之地
 author:
   name: 王海明
   email: 11178243@qq.com
-description: 枯坐到清晨 阳光替房间开了灯
+description: >-
+  光照过的地方，就是永恒<br>
+  那些爱过的人，做过的事，永远不曾消失<br>
+  TA随阳光一起奔跑，奔向几万光年外的未知<br>
+  所有人类都已忘记，唯有宇宙永远记得<br>
+  
+github_username:  HmingWang
 
 theme: minima
-
+plugins:
+  - jekyll-feed
 
 defaults:
   -
@@ -19,3 +26,6 @@ defaults:
 minima:
   social_links:
     github:  HmingWang
+    twitter: ""
+    facebook: ""
+    youtube: ""
